@@ -13,7 +13,7 @@ Remote:<br>
 git push origin :test<br><br>
 
 #checkout another branch without commit changes<br>
-checkout name<br><br>
+git stash<br><br>
 
 #List tags<br>
 git tag<br><br>
