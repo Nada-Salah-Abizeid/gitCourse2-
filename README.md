@@ -1,7 +1,6 @@
 Version Control Lab 2
 
 #Remove dev branch<br>
-<<<<<<< HEAD
 Local:<br>
 git branch -d dev<br>
 Remote:<br>
@@ -25,4 +24,7 @@ git tag -d v1.7<br>
 Remote:<br>
 git push origin --delete v1.7<br><br>
 
+<<<<<<< HEAD
 ![Alt text](img.png)
+=======
+>>>>>>> origin/main
