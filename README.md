@@ -25,9 +25,4 @@ git tag -d v1.7<br>
 Remote:<br>
 git push origin --delete v1.7<br><br>
 
-=======
-##Local
-git branch -d dec
-##Remote
-git push origin :dev
->>>>>>> 57dc66869a121f3c931bff6d3b7f0e26c1825bef
+![Alt text](img.png)
